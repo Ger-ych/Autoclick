@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Autoclick", "Autoclick\Autoclick.pyproj", "{526A8BAF-7E8C-4CA4-84E0-F2BF38473A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526A8BAF-7E8C-4CA4-84E0-F2BF38473A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526A8BAF-7E8C-4CA4-84E0-F2BF38473A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14469A37-67AE-4EA9-8E35-22DC329E14F4}
+	EndGlobalSection
+EndGlobal
