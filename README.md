@@ -1,2 +1,2 @@
 # Autoclick
-Simple yet powerful Python autoclicker
+Простой, но мощный автокликер на Python.
